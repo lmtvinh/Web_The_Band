@@ -1,0 +1,29 @@
+Thực hành số 1:
+https://www.w3schools.com/w3css/tryw3css_templates_band.htm
+
+    1. Phân tích -> OK
+        1. Header -> OK
+        2. Slider 
+        3. Container
+        4. Content
+            1. About
+            2. Tour
+            3. Contact
+            4. Image
+            5. Footer
+        5. Footer
+    2. Dựng base (xây dựng móng)
+    3. Xây dựng từng phần theo phân tích
+    4. Hoàn thiện
+
+Những thành phần thường gặp trên giao diện website:
+    1. Header (Đầu trang)
+    2. Navigation (Điều hướng)
+    3. Breadcrumb
+    4. Sidebar
+    5. Slider
+    6. Banner
+    7. Content (Nội dung chính)
+    8. Footer (Chân trang)
+
+Quy tắc những gì ấn vào được thì đổi con trỏ chuột thành bàn tay
